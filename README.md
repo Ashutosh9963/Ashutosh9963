@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashutosh9963
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning MongoDD, NodeJS, React, Express
+- 🌱 I’m currently learning MongoDB, NodeJs, ReactJs, Express
 - 💞️ I’m looking to collaborate on Projects of reputated companies
 - 📫 How to reach me : ashtosh.at46@gmail.com
 
